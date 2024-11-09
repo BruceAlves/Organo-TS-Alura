@@ -23,6 +23,7 @@ const Time = (props: TimesProps) => {
                         nome={colaborador.nome} 
                         cargo={colaborador.cargo} 
                         imagem={colaborador.imagem}
+                        data={colaborador.data}
                      /> )}
             </div>
         </section> 
